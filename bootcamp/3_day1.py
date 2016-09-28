@@ -1,5 +1,0 @@
-a=input("Enter the a side of the triangle:")
-b=input("Enter the b side of the triangle:")
-c=input("Enter the a side of the triangle:")
-x=(a+b+c)
-A=(1/4)*math.sqrt(x)
