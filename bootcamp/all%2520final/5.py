@@ -1,0 +1,7 @@
+i=input("Enter the harmonic sequence of the number :")
+x0=(int(i)/int(i))
+x1=x0+(int(i)/(int(i)+1))
+x2=x1+(int(i)/(int(i)+2))
+x3=x2+(int(i)/(int(i)+3))
+x4=x2+(int(i)/(int(i)+4))
+print("\n",x0,"-\n",x1,"-\n",x2,"-\n",x3,"-\n",x4,"-\n")
