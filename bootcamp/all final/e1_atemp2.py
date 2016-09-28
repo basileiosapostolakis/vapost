@@ -1,0 +1,11 @@
+worda="000000000"
+wordb="123456789"
+print(worda[0:8]+(wordb[0:1])*1)
+print(worda[0:7]+(wordb[1:2])*2)
+print(worda[0:6]+(wordb[2:3])*3)
+print(worda[0:5]+(wordb[3:4])*4)
+print(worda[0:4]+(wordb[4:5])*5)
+print(worda[0:3]+(wordb[5:6])*6)
+print(worda[0:2]+(wordb[6:7])*7)
+print(worda[0:1]+(wordb[7:8])*8)
+print(worda[0:0]+(wordb[8:9])*9)
